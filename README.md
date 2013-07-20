@@ -11,3 +11,5 @@ reservation and a comma separated list of dates as following:
 Then the service should return the cheapest hotel considering some business rules that 
 take in consideration the type of reservation, hotel rates and if the days are week or weekend days.
 
+It's running fine, built in netbeans and JDK 7. Just compile and run.
+
